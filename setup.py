@@ -3,8 +3,8 @@ from setuptools import setup
 with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
-## edit below variables as per your requirements -
-AUTHOR_NAME = "Bappy Ahmed"
+
+AUTHOR_NAME = "Virendra Beniwal"
 SRC_REPO = "src"
 LIST_OF_REQUIREMENTS = []
 
